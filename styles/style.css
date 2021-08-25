@@ -15,6 +15,7 @@ td,th{
 }
 p{
     width: 40em;
+    font-size: medium;
 }
 .container{
     justify-content: space-between;
