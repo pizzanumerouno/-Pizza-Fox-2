@@ -10,3 +10,6 @@ nav{
 .ikonka{
     width: 3em;
 }
+td,th{
+    border: 1px solid black;
+}
