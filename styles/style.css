@@ -51,6 +51,11 @@ p{
   
   .container p a {
     background-color: rgb(238, 122, 45);
+    text-decoration: none;
+  }
+  .container p a:hover {
+    background-color: rgb(238, 122, 45);
+    text-decoration: underline;
   }
   .container p {
     margin: 0.25rem;
