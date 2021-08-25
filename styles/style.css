@@ -58,6 +58,7 @@ p{
     border: 3px solid black;
     background-color: rgb(238, 122, 45);
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: x-large;
   }
   
   
@@ -96,4 +97,7 @@ p{
   }
   .top .logo{
       width: 15em;
+  }
+  table{
+      font-size:xx-large;
   }
