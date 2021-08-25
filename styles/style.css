@@ -1,9 +1,7 @@
 *{
-    background-color: whitesmoke;
+    background-color: rgb(255, 250, 203);
 }
 nav{
-    background-color: whitesmoke;
-    border: 2px solid white;
     height: 50px;
     border-radius: 10px;
 }
@@ -52,13 +50,13 @@ p{
   }
   
   .container p a {
-    background-color: rgb(255, 122, 34);
+    background-color: rgb(238, 122, 45);
   }
   .container p {
     margin: 0.25rem;
     padding: 0.5rem;
     border: 3px solid black;
-    background-color: rgb(255, 122, 34);
+    background-color: rgb(238, 122, 45);
   }
   
   
