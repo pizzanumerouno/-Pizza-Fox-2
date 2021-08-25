@@ -7,6 +7,3 @@ nav{
     height: 50px;
     border-radius: 10px;
 }
-.container{
-    place-content: space-between end;
-}
