@@ -38,8 +38,7 @@ p{
   .box--one {
     background: lightgrey;
   }
-  
-  /* ETC (Formatting only): */
+
   
   body {
     margin: 1.5em;
@@ -73,5 +72,5 @@ p{
   }
   
   .active {
-    background: lightgrey;
+    background: white;
   }
