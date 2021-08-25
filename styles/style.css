@@ -13,3 +13,65 @@ nav{
 td,th{
     border: 1px solid black;
 }
+p{
+    width: 50em;
+}
+.container{
+    justify-content: space-between;
+}
+.container--one .box--one {
+    flex-grow: 0;
+  }
+  
+  .container--two .box--one {
+    flex-grow: 0.5;
+  }
+  
+  .container--three .box--one {
+    flex-grow: 1;
+  }
+  
+  .container--four .box--one {
+    flex-grow: 2;
+  }
+  
+  .box--one {
+    background: lightgrey;
+  }
+  
+  /* ETC (Formatting only): */
+  
+  body {
+    margin: 1.5em;
+    font-size: 130%;
+    font-family: sans-serif;
+  }
+  
+  .container {
+    display: flex;  
+    border: 5px solid black;
+    padding: 0.25rem;
+  }
+  
+  .container p {
+    margin: 0.25rem;
+    padding: 0.5rem;
+    border: 5px dotted black;
+  }
+  
+  
+  fieldset {
+    border: darkgrey 1px solid;
+    padding: 0;
+    margin-bottom: 2em; 
+  }
+  
+  label {
+    display: inline-block;
+    padding: 0.5em;
+    cursor: pointer;
+  }
+  
+  .active {
+    background: lightgrey;
+  }
