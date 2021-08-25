@@ -1,3 +1,12 @@
+*{
+    background-color:whitesmoke;
+}
 nav{
     background-color: rgb(255, 186, 83);
+    border: 2px solid white;
+    height: 50px;
+    border-radius: 10px;
+}
+.container{
+    place-content: space-between end;
 }
