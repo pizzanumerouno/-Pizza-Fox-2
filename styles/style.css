@@ -89,3 +89,12 @@ p{
   .obrazovka{
       width: 40em;
   }
+  .top{
+      text-align: right;
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+  }
+  .top .logo{
+      width: 15em;
+  }
