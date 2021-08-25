@@ -14,10 +14,12 @@ td,th{
     border: 1px solid black;
 }
 p{
-    width: 50em;
+    width: 40em;
 }
 .container{
     justify-content: space-between;
+    background-color: rgb(255, 122, 34);
+    border-radius: 1em;
 }
 .container--one .box--one {
     flex-grow: 0;
@@ -35,10 +37,6 @@ p{
     flex-grow: 2;
   }
   
-  .box--one {
-    background: lightgrey;
-  }
-
   
   body {
     margin: 1.5em;
