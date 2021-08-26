@@ -24,3 +24,6 @@ function paolavisibility(){
     paola.classList.toggle("hidden")
     paolatext.classList.toggle("hidden")
 }
+function Nyni(parametr){
+    alert('Nyni'+parametr);
+}
