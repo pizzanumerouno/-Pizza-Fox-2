@@ -150,3 +150,10 @@ p{
 #opad{
   width: 400px;
 }
+.kontakty{
+  text-align: left;
+}
+.objednavky{
+  display: flex;
+    flex-direction: column;
+}
