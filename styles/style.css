@@ -107,3 +107,6 @@ p{
   table{
       font-size:xx-large;
   }
+.obrazek:hover{
+appearance: menu;
+}
