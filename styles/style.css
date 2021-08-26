@@ -153,6 +153,7 @@ p{
 }
 .kontakty{
   text-align: left;
+  margin: 20px
 }
 .objednavky{
   display: flex;
@@ -171,4 +172,7 @@ p{
 }
 body {
   margin: 0 auto;
+}
+.liška{
+  margin: 20px
 }
