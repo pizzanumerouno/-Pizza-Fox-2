@@ -65,7 +65,10 @@
         <h1 id="O nás" style="font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">O nás</h1>
             <p>Pizza Fox se již dlouhá léta zaměřuje na výrobu kvalitní a chutné pizzy přímo k Vám domů. Pečlivě vybíráme každou ingredienci, abychom při jejich smíchání docílili jedinečného zážitku. Naši kuchaři jsou mistři z celého světa. Máme tradici již od roku 1982. Tento projekt má za cíl výrobu webových stránek naší pizzerie v rámci projektu Code like a girl. 
                 <br/> Náš kuchařský tým se skládá ze tří členů.<br/> 
-                <img class="obrazek" src="obrazky/mario.jpg">
+                <div class="mariotext hidden" onmouseleave="mariovisibility()"id="mariotext">Tohle je Mario, náš vrchní kuchař. 
+                Pracuje u nás již od roku 1990 a vyrostl na Neapolském předměstí v rodině místního pizzaře.
+                Je to mistr svého oboru a věříme, že i Vás jeho pizza uchvátí.</div>
+                <img class="obrazek" id="mario" onmouseover="mariovisibility()" src="obrazky/mario.jpg">
             </p>
             <a href="#domů">Zpět domů</a>
         <h1 id="Jídelní lístek" style="font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Jídelní lístek</h1>
@@ -90,4 +93,5 @@
             </nav>
             <h4 style="font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif">Majitelé: Karolína Mejzlíková a Klára Kolevská</h4>
     </body>
+    <script src="js/script.js"></script>
 </html>
