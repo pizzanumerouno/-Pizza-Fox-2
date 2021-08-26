@@ -104,6 +104,12 @@ p{
   .top .logo{
       width: 15em;
   }
+  .top{
+    text-align: right;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
   table{
       font-size:xx-large;
   }
@@ -112,4 +118,13 @@ p{
 }
 .hidden{
   display:none;
+}
+.ob{
+      text-align: right;
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+}
+.ob .tlacitko{
+  width: 25em;
 }
