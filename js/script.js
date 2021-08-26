@@ -15,3 +15,12 @@ function luigivisibility(){
     luigi.classList.toggle("hidden")
     luigitext.classList.toggle("hidden")
 }
+
+let paola =document.getElementById("paola")
+let paolatext =document.getElementById("paolatext")
+ 
+
+function paolavisibility(){
+    paola.classList.toggle("hidden")
+    paolatext.classList.toggle("hidden")
+}
