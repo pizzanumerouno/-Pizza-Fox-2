@@ -107,9 +107,13 @@ p{
   table{
       font-size:xx-large;
   }
-.obrazek:hover{
-
+.mariotext {
+ background-color: rgb(238, 122, 45);
+ width: 40em;
 }
 .hidden{
   display:none;
+}
+.obrazek{
+  width: 40em;
 }
