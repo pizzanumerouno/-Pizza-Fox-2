@@ -140,8 +140,8 @@ p{
       flex-direction: row;
       justify-content: space-between;
 }
-.ob .tlacitko{
-  width: 25em;
+.tlacitko{
+  width: 20em;
 }
 .obrazek{
   width: 40em;
