@@ -146,6 +146,7 @@ p{
 }
 .obrazek{
   width: 40em;
+  height:10em;
 }
 #opad{
   width: 400px;
@@ -158,8 +159,9 @@ p{
     flex-direction: column;
 }
 .lilie{
-  background-color:rgb(255,85,0); 
+  background-color:brown; 
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  border: 1px solid black
 }
 .pot{
   text-align: right;
