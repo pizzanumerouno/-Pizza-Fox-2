@@ -110,6 +110,20 @@ p{
 .mariotext {
  background-color: rgb(238, 122, 45);
  width: 40em;
+ margin: 1px solid black;
+  border-radius: 15px;
+}
+.paolatext {
+  background-color: rgb(238, 122, 45);
+  width: 40em;
+  margin: 1px solid black;
+   border-radius: 15px;
+ }
+.luigitext{
+  background-color: rgb(238, 122, 45);
+  width: 40em;
+  margin: 1px solid black;
+  border-radius: 15px;
 }
 .hidden{
   display:none;
